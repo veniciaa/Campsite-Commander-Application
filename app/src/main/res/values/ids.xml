@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textInputLayout" type="id">textInput</item>
+    <item name="addGearBtn" type="id">addGearBtn</item>
+    <item name="imageView" type="id">imageView</item>
+    <item name="addTextView" type="id">addTextView</item>
+    <item name="showListBtn" type="id">showListBtn</item>
+    <item name="inputItem" type="id">InputItem</item>
+    <item name="totalItemsTextView" type="id">totalItemsTextView</item>
+    <item name="ListOfItems" type="id">listOfItems</item>
+</resources>
